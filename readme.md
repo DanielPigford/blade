@@ -1,6 +1,6 @@
 
 
-# Blade - Shaping Source Code - a code generation tool based on Handlebars
+# Blade - Shaping Source Code - a code generation tool that uses Handlebars
 
 BLADE - A console utility developed in .NET Core 2.0 using Visual Studio Code on macOS.  The initial goal of the project is to use SQLClient and Handlebars.Net libraries to construct generated program source code (initially C#) for data access.  Ultimately Blade will be able to generate any type of source code the template references.  Blade is a developer tool that shapes source code, saves time, and reduces bugs.
 
@@ -8,7 +8,7 @@ BLADE - A console utility developed in .NET Core 2.0 using Visual Studio Code on
 
 ## Who makes Blade?  Can I help with the development?
 
-Daniel Pigford, you can find me on BitBucket and Twitter as @codeasaurus.  Feel free to pass along _any_ feedback or suggestions for Blade.
+Daniel Pigford, you can find me on BitBucket as @codeasaurus.  Feel free to pass along _any_ feedback or suggestions for Blade.
 
 ## What development tools are used to build Blade?
 
@@ -53,7 +53,7 @@ Yes.
 
 ## Where are the templates hosted?
 
-The Handlebar templates are currently hosted on BitBucket.  At the moment the repository is private but we are accepting requests to help with our Beta process.
+The Handlebar templates are currently hosted on BitBucket.  At the moment the repository is private but we are accepting requests to help with our development process.
 
 BitBucket:  https://bitbucket.org/codeasaurus/razor
 
