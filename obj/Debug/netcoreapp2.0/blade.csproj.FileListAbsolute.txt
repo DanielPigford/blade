@@ -1,0 +1,10 @@
+/Users/daniel/Documents/Projects/bitbucket/blade/bin/Debug/netcoreapp2.0/blade.deps.json
+/Users/daniel/Documents/Projects/bitbucket/blade/bin/Debug/netcoreapp2.0/blade.runtimeconfig.json
+/Users/daniel/Documents/Projects/bitbucket/blade/bin/Debug/netcoreapp2.0/blade.runtimeconfig.dev.json
+/Users/daniel/Documents/Projects/bitbucket/blade/bin/Debug/netcoreapp2.0/blade.dll
+/Users/daniel/Documents/Projects/bitbucket/blade/bin/Debug/netcoreapp2.0/blade.pdb
+/Users/daniel/Documents/Projects/bitbucket/blade/obj/Debug/netcoreapp2.0/blade.csproj.CoreCompileInputs.cache
+/Users/daniel/Documents/Projects/bitbucket/blade/obj/Debug/netcoreapp2.0/blade.AssemblyInfoInputs.cache
+/Users/daniel/Documents/Projects/bitbucket/blade/obj/Debug/netcoreapp2.0/blade.AssemblyInfo.cs
+/Users/daniel/Documents/Projects/bitbucket/blade/obj/Debug/netcoreapp2.0/blade.dll
+/Users/daniel/Documents/Projects/bitbucket/blade/obj/Debug/netcoreapp2.0/blade.pdb
