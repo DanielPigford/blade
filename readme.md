@@ -8,9 +8,9 @@ blade - This project is a console utility developed in .NET Core 2.0 with Visual
 
 For development you will need Visual Studio Code and .NET Core 2.0.
 
-Visual Studio Code URL: https://code.visualstudio.com
-.NET Core 2.0 SKD URL: https://github.com/dotnet/core/blob/master/release-notes/download-archives/2.0.0-download.md
-.NET Data Access URL: https://blogs.msdn.microsoft.com/dotnet/2016/11/09/net-core-data-access/
+* Visual Studio Code URL: https://code.visualstudio.com
+* .NET Core 2.0 SKD URL: https://github.com/dotnet/core/blob/master/release-notes/download-archives/2.0.0-download.md
+* .NET Data Access URL: https://blogs.msdn.microsoft.com/dotnet/2016/11/09/net-core-data-access/
 
 ## Why Blade?
 
