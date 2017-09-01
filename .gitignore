@@ -1,4 +1,1 @@
-obj/Debug/netcoreapp1.1/blade.dll
-obj/Debug/netcoreapp1.1/blade.pdb
-obj/Debug/netcoreapp1.1/CoreCompileInputs.cache
-obj/Debug/netcoreapp1.1/blade.csproj.FileListAbsolute.txt
+obj/*.*
