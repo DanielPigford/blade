@@ -26,8 +26,9 @@ Blade is named after devices with sharp edges used for cutting, shaping and carv
 
 As of today there are only a few template groups in our repository.
 
-razor - Data access templates for .NET Core and Framework.  100% source code, no assemblies required.
-switch - Development and management templates for TSQL.
+* razor - Data access templates for .NET Core, .NET Framework and JavaScript.  100% source code, no assemblies required.
+* switch - Development and management templates for TSQL.
+* docs - Documentation templates for TSQL.
 
 ## Will you be making more templates?
 
@@ -39,4 +40,7 @@ Yes.
 
 ## What does Blade do?
 
+Blade generates native .NET code files based on Handlebar templates using database schema definition information.
+
 ## How do I use Blade in my project?
+
