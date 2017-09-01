@@ -1,32 +1,47 @@
 
 
-# Blade - Code Generation Tool based on Handlebars.Net
+# Blade - Shaping Source Code - a code generation tool based on Handlebars
 
-blade - This project is a console utility developed in .NET Core 2.0 with Visual Studio Code on macOS.  Being my first .NET Core 2.0 project I am sure I will hit a wall or two.  The goal of the project is to use SQLClient and Handlebars.Net libraries to construct generated code (initially C#) for data access.
+BLADE - A console utility developed in .NET Core 2.0 using Visual Studio Code on macOS.  The initial goal of the project is to use SQLClient and Handlebars.Net libraries to construct generated program source code (initially C#) for data access.  Ultimately Blade will be able to generate any type of source code the template references.  Blade is a developer tool that shapes source code, saves time, and reduces bugs.
 
-usage: >blade config.json
+> usage: $> blade {config.json}
 
-## Development Tools
+## Who makes Blade?  Can I help with the development?
 
-For development you will need Visual Studio Code and .NET Core 2.0.
+Daniel Pigford, you can find me on BitBucket and Twitter as @codeasaurus.  Feel free to pass along _any_ feedback or suggestions for Blade.
+
+## What development tools are used to build Blade?
+
+For the development of BLADE I use Visual Studio Code (macOS), .NET Core 2.0, Handlebars.Net and Json.NET.
 
 * Visual Studio Code: https://code.visualstudio.com
+* C#: https://docs.microsoft.com/en-us/dotnet/csharp/csharp
 * .NET Core 2.0 SDK: https://github.com/dotnet/core/blob/master/release-notes/download-archives/2.0.0-download.md
-* .NET Data Access: https://blogs.msdn.microsoft.com/dotnet/2016/11/09/net-core-data-access/
+* Handlebars.Net: https://github.com/rexm/Handlebars.Net
+* Json.NET: https://www.newtonsoft.com/json
+* .NET Core Data Access: https://blogs.msdn.microsoft.com/dotnet/2016/11/09/net-core-data-access/
+
+## Why use .NET Core?
+
+Write once, run anywhere. (Windows, macOS, Linux)
 
 ## What is Blade?
 
-Blade was created to answer a need to generate data access class source code in .NET projects using a Database First generation approach.  The approach is that the database is either created or exists prior to building the application.  The application is based on the database and therefor we generate data access classes based on those database objects.  The long term goal is to make blade compatible with SQL Server, MySQL, Postgres, SQLite and Oracle databases.
+Blade was created to answer a need to generate data access class source code in .NET projects using the Database First generation approach.  Database First means the database either exists or is created prior to building the application and referenced to create source code patterns.  The long term goal is to make blade compatible with SQL Server, MySQL, Postgres, SQLite and Oracle databases.
 
-Actually the templates that the Blade utility uses were developed first (in Handlebars) and used with another generation tool that has since been retired.  The Blade utility replaces that previous tool.
+The original data access templates that the Blade utility uses were originally developed by Daniel for another generation tool that has since been retired.  The Blade utility replaces that previous tool.  https://my2ndgeneration.wordpress.com/2014/03/20/xojo-mybackspace-and-m2g/
+
+The source code for Blade is available on BitBucket.
+
+BitBucket: https://bitbucket.org/codeasaurus/blade
 
 ## Why is it called Blade?
 
-Blade is named after devices with sharp edges used for cutting, shaping and carving.
+Blade is named after devices with ultra fine edges used for cutting, shaping and carving.  We use Blade to shape/cut/create source code.
 
 ## What Handlebar Templates are available for Blade?
 
-As of today there are only a few template groups in our repository.
+There is a growing list of template groups available.
 
 * razor - Data access templates for .NET Core, .NET Framework and JavaScript.  100% source code, no assemblies required.
 * switch - Development and management templates for TSQL.
@@ -44,11 +59,11 @@ BitBucket:  https://bitbucket.org/codeasaurus/razor
 
 ## Can I make my own templates?
 
-Yes.
+Yes.  Many people do for coding templates, snippets and libraries.
 
 ## What does Blade do?
 
-Blade generates native .NET code files based on Handlebar templates using database schema definition information.
+Blade generates source code files based on Handlebar templates using database schema definition information as input into the template generation process.
 
 ## How do I use Blade in my project?
 
