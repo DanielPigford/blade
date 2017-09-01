@@ -4,6 +4,8 @@
 
 blade - This project is a console utility developed in .NET Core 2.0 with Visual Studio Code on macOS.  Being my first .NET Core 2.0 project I am sure I will hit a wall or two.  The goal of the project is to use SQLClient and Handlebars.Net libraries to construct generated code (initially C#) for data access.
 
+usage: >blade config.json
+
 ## Development Tools
 
 For development you will need Visual Studio Code and .NET Core 2.0.
@@ -12,7 +14,7 @@ For development you will need Visual Studio Code and .NET Core 2.0.
 * .NET Core 2.0 SDK: https://github.com/dotnet/core/blob/master/release-notes/download-archives/2.0.0-download.md
 * .NET Data Access: https://blogs.msdn.microsoft.com/dotnet/2016/11/09/net-core-data-access/
 
-## Why Blade?
+## What is Blade?
 
 Blade was created to answer a need to generate data access class source code in .NET projects using a Database First generation approach.  The approach is that the database is either created or exists prior to building the application.  The application is based on the database and therefor we generate data access classes based on those database objects.  The long term goal is to make blade compatible with SQL Server, MySQL, Postgres, SQLite and Oracle databases.
 
@@ -33,6 +35,12 @@ As of today there are only a few template groups in our repository.
 ## Will you be making more templates?
 
 Yes.
+
+## Where are the templates hosted?
+
+The Handlebar templates are currently hosted on BitBucket.  At the moment the repository is private but we are accepting requests to help with our Beta process.
+
+BitBucket:  https://bitbucket.org/codeasaurus/razor
 
 ## Can I make my own templates?
 
