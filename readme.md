@@ -31,13 +31,11 @@ Blade was created to answer a need to generate data access class source code in 
 
 The original data access templates that the Blade utility uses were originally developed by Daniel for another generation tool that has since been retired.  The Blade utility replaces that previous tool.  https://my2ndgeneration.wordpress.com/2014/03/20/xojo-mybackspace-and-m2g/
 
-The source code for Blade is available on BitBucket.
-
-BitBucket: https://bitbucket.org/codeasaurus/blade
+The source code for Blade is available on BitBucket.  https://bitbucket.org/codeasaurus/blade
 
 ## Why is it called Blade?
 
-Blade is named after devices with ultra fine edges used for cutting, shaping and carving.  We use Blade to shape/cut/create source code.
+Blade is named after devices with ultra fine edges used for cutting, shaping and carving.  We use Blade to build/shape/cut/create source code.
 
 ## What Handlebar Templates are available for Blade?
 

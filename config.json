@@ -1,0 +1,17 @@
+{
+    "_comment": "Blade sample configuration file",
+    "version": "0.1.0",
+    "configurations": [
+        {
+            "name": ".NET Core Launch (console)",
+            "connection_string": "Server=tcp:YourServer,1433;Initial Catalog=YourDatabase;Persist Security Info=True;",
+            "tables": [
+
+            ],
+            "views": [
+
+            ],
+            "template": "${workspaceRoot}/bin/Debug/netcoreapp2.0/blade.dll"
+        }
+    ]
+}
