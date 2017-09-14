@@ -1,6 +1,6 @@
 
 
-# Blade - Shaping Source Code - a code generation tool that uses Handlebars
+# Blade - Shaping Source Code - a code generation tool with Handlebars
 
 BLADE - A console utility developed in .NET Core 2.0 using Visual Studio Code on macOS.  The initial goal of the project is to use SQLClient and Handlebars.Net libraries to construct generated program source code (initially C#) for data access.  Ultimately Blade will be able to generate any type of source code the template references.  Blade is a developer tool that shapes source code, saves time, and reduces bugs.
 
