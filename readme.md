@@ -53,7 +53,8 @@ Yes.
 
 The Handlebar templates are currently hosted on BitBucket.  At the moment the repository is private but we are accepting requests to help with our development process.
 
-BitBucket:  https://bitbucket.org/codeasaurus/razor
+razor:  https://bitbucket.org/codeasaurus/razor
+switch: https://bitbucket.org/codeasaurus/switch 
 
 ## Can I make my own templates?
 

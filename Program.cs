@@ -11,7 +11,7 @@ namespace blade
 
             Console.WriteLine("Reading configuration file. [config.json]");
             BladeConfig conf = new BladeConfig();
-            conf.LoadConfig(args);
+            conf.LoadConfig(args); 
             //Read from config...per configuration section
             //  List of tables
             //  List of views
