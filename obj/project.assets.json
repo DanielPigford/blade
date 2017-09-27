@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/daniel/Documents/Projects/bitbucket/blade/blade.csproj",
+      "projectUniqueName": "/Users/daniel/DocumentsLocal/Projects/bitbucket/blade/blade.csproj",
       "projectName": "blade",
-      "projectPath": "/Users/daniel/Documents/Projects/bitbucket/blade/blade.csproj",
+      "projectPath": "/Users/daniel/DocumentsLocal/Projects/bitbucket/blade/blade.csproj",
       "packagesPath": "/Users/daniel/.nuget/packages/",
-      "outputPath": "/Users/daniel/Documents/Projects/bitbucket/blade/obj/",
+      "outputPath": "/Users/daniel/DocumentsLocal/Projects/bitbucket/blade/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
