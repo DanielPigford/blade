@@ -6,7 +6,7 @@ namespace blade
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to Blade version 1.1.");
+            Console.WriteLine("Welcome to Blade version 1.1. ");
             Console.WriteLine("  Usage: blade {config.json}");
 
             Console.WriteLine("Reading configuration file. [config.json]");
