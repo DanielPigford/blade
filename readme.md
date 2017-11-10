@@ -29,7 +29,7 @@ Write once, run anywhere. (Windows, macOS, Linux)
 
 Blade was created to answer a need to generate data access class source code in .NET projects using the Database First generation approach.  Database First means the database either exists or is created prior to building the application and referenced to create source code patterns.  The long term goal is to make blade compatible with SQL Server, MySQL, Postgres, SQLite and Oracle databases.
 
-The original data access templates that the Blade utility uses were originally developed by Daniel for another generation tool that has since been retired.  The Blade utility replaces that previous tool.  https://my2ndgeneration.wordpress.com/2014/03/20/xojo-mybackspace-and-m2g/
+The original data access templates that the Blade utility uses were first developed by Daniel for another generation tool that has since been retired.  The Blade utility replaces that previous tool.  https://my2ndgeneration.wordpress.com/2014/03/20/xojo-mybackspace-and-m2g/
 
 The source code for Blade is available on GitHub.  https://github.com/DanielPigford/blade/
 
