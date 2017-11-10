@@ -8,7 +8,7 @@ BLADE - A console utility developed in .NET Core 2.0 using Visual Studio Code on
 
 ## Who makes Blade?  Can I help with the development?
 
-Daniel Pigford, you can find me on BitBucket as @codeasaurus.  Feel free to pass along _any_ feedback or suggestions for Blade.
+Daniel Pigford, you can find me on GitHub as DanielPigford.  Feel free to pass along _any_ feedback or suggestions for Blade.
 
 ## What development tools are used to build Blade?
 
@@ -31,11 +31,11 @@ Blade was created to answer a need to generate data access class source code in 
 
 The original data access templates that the Blade utility uses were originally developed by Daniel for another generation tool that has since been retired.  The Blade utility replaces that previous tool.  https://my2ndgeneration.wordpress.com/2014/03/20/xojo-mybackspace-and-m2g/
 
-The source code for Blade is available on BitBucket.  https://bitbucket.org/codeasaurus/blade
+The source code for Blade is available on GitHub.  https://github.com/DanielPigford/blade/
 
 ## Why is it called Blade?
 
-Blade is named after devices with ultra fine edges used for cutting, shaping and carving.  We use Blade to build/shape/cut/create source code.
+Blade is named after devices with ultra fine edges used for cutting, shaping and carving.  We use Blade to build/shape/cut/create source code using Handlebar templates and database schema information.
 
 ## What Handlebar Templates are available for Blade?
 
@@ -51,10 +51,10 @@ Yes.
 
 ## Where are the templates hosted?
 
-The Handlebar templates are currently hosted on BitBucket.  At the moment the repository is private but we are accepting requests to help with our development process.
+The Handlebar templates are currently hosted on GitHub.  The repository is public and we are accepting requests to help with our development process.
 
-* razor:  https://bitbucket.org/codeasaurus/razor
-* switch: https://bitbucket.org/codeasaurus/switch 
+* razor:  https://github.com/DanielPigford/razor
+* switch: https://github.com/DanielPigford/switch 
 
 ## Can I make my own templates?
 
